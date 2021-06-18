@@ -1,3 +1,3 @@
 # My Resume
 
-https://AhmedMostafaElMasry.github.io/My-Resume/
+www.ahmedmostafaelmasry.netlify.app
